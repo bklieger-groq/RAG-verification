@@ -1,7 +1,7 @@
 from groq import Groq
 import os
 import re
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 import json
 
 client = Groq(

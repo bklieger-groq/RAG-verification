@@ -1,3 +1,2 @@
 groq
-fuzzywuzzy
-python-Levenshtein
+rapidfuzz
