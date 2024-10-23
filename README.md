@@ -62,3 +62,7 @@ Correct Answer: C. Getting page layouts, fonts, and colors right
 LLM Answer: B. Having high production values
 Correct: False
 ```
+
+### Credits
+
+Groq implementation developed by Benjamin Klieger and Rick lamers with inspiration from Trelis Research [(Original Video)](https://www.youtube.com/watch?v=-wGzSnhQKPM).
