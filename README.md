@@ -65,4 +65,4 @@ Correct: False
 
 ### Credits
 
-Groq implementation developed by Benjamin Klieger and Rick lamers with inspiration from Trelis Research [(Original Video)](https://www.youtube.com/watch?v=-wGzSnhQKPM).
+Groq implementation developed by Benjamin Klieger and Rick Lamers with inspiration from Trelis Research [(Original Video)](https://www.youtube.com/watch?v=-wGzSnhQKPM).
