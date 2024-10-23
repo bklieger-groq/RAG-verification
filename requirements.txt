@@ -1,2 +1,3 @@
 groq
 rapidfuzz
+tqdm
