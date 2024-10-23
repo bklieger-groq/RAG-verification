@@ -20,13 +20,30 @@ python3 app.py
 ~~~
 
 ```
+Question: When did Paul Graham start working on Bel?
+
+Response:
+{
+  "citations": [
+    {
+      "number": 1,
+      "quote": "In late 2015 I spent 3 months writing essays, and when I went back to working on Bel I could barely understand the code."
+    }
+  ],
+  "response": "Paul Graham started working on Bel in late 2015 [1]."
+}
+
+Verification:
+Citation 1 verified with 100.00 confidence
+
+```
+
+The evaluation shows citation helps in certain cases!
+
+```
 Results Comparison:
 Citation-based accuracy: 100.00%
 Direct answer accuracy: 94.74%
-
-Citation Based Results:
-Accuracy: 100.00%
-Correct: 19/19
 
 CITATION
 Question: What was the key insight Paul Graham had about making online stores look legitimate?
